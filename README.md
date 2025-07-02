@@ -5,7 +5,7 @@ A simple Gradio web application that converts text input into an audio file.
 ## Features
 
 * Converts text to speech using Google Text-to-Speech (`gTTS`).
-* Outputs audio in MP3 format (or WAV if `ffmpeg` and `pydub` are installed).
+* Outputs audio in WAV if `ffmpeg` and `pydub` are installed.
 * User-friendly web interface powered by Gradio.
 
 ## Setup and Installation
