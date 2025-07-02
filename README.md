@@ -54,4 +54,4 @@ Feel free to fork this repository, make improvements, and submit pull requests.
 
 ## License
 
-[Optional: Add license information here, e.g., MIT License]
+NAM
