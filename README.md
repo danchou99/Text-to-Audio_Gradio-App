@@ -8,6 +8,11 @@ A simple Gradio web application that converts text input into an audio file.
 * Outputs audio in WAV if `ffmpeg` and `pydub` are installed.
 * User-friendly web interface powered by Gradio.
 
+## Updates
+
+ * Can ask question from any LLM (change `model` variable and its corresponding API key in app.py)
+ * The response of LLM is then converted into audio file (wav format)
+
 ## Setup and Installation
 
 1.  **Clone the repository:**
